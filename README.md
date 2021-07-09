@@ -14,7 +14,9 @@ Elements could be grouped in variables (if needed) and added to points of insert
 Let's dive into the requisites for this proposed add-on language, or specifically for the JSON/YAML tree markup.
 
 
-# Content (or the current HTML responsibilities)
+# Content
+
+A.k.a. the current HTML resposibilities.
 
 ## Requisites: meta and other non-content (old HEAD stuff)
 
@@ -79,8 +81,8 @@ SVG is a nice resolution-indepent format of images and it is important that it c
 
 # Style
 
-TBD
+A.k.a. the current CSS resposibilities
 
 # Interaction
 
-TBD
+A.k.a. the current JS resposibilities as it comes to the integration between HTML/CSS and the programmatic tree (DOM)
