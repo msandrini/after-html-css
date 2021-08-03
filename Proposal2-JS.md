@@ -208,7 +208,7 @@ render(
                 <option>PDF</option>
                 <option>Word</option>
             </radio>
-            <div.twoCols">
+            <div.twoCols>
                 <div.clearButton.normalText formclear>clear</div>
                 <div.submitButton.normalText formsubmit>Send!</div>
             </div>
